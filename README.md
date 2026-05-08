@@ -11,6 +11,8 @@ This project focuses on automating domestic waste handling using a sensor-guided
 The robotic arm detects waste through a camera feed, calculates the target position, picks the object using a gripper, and transfers it for compaction and stacking.
 
 ---
+## Methodology
+<img width="1229" height="745" alt="image" src="https://github.com/user-attachments/assets/5d7c150b-103f-44f5-b4ad-ee14a2fe9b7a" />
 
 ## Features
 
@@ -25,6 +27,8 @@ The robotic arm detects waste through a camera feed, calculates the target posit
 - Modular hardware and software design
 
 ---
+## CAD of the arm 
+  <img width="455" height="757" alt="image" src="https://github.com/user-attachments/assets/5ffe821a-ed77-44ca-b904-97f0049f8c6d" />
 
 ## Hardware Used
 
@@ -78,34 +82,6 @@ The robotic arm detects waste through a camera feed, calculates the target posit
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone <your-repo-link>
-cd <repo-name>
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run detection:
-
-```bash
-python detect.py --source 0
-```
-
-Run the robotic arm controller:
-
-```bash
-python main.py
-```
-
----
 
 ## Applications
 
