@@ -2,6 +2,22 @@
 
 A smart waste-handling robotic system designed to detect, pick, compact, and stack domestic waste using computer vision, robotic arm control, and sensor-guided automation.
 
+
+## Complete System Setup 
+<img width="626" height="470" alt="image" src="https://github.com/user-attachments/assets/e584f7d9-b98e-4217-a248-c6526c0cdb57" />
+
+## Compaction System 
+<img width="741" height="593" alt="image" src="https://github.com/user-attachments/assets/4b23fe1d-f6a9-4f66-bec0-f7d812a28fd2" />
+
+## Robotic Arm 
+<img width="644" height="490" alt="image" src="https://github.com/user-attachments/assets/1687b14a-53cc-4b46-a5c9-a370b5bc6309" />
+
+## Camera and Detection 
+<img width="741" height="463" alt="image" src="https://github.com/user-attachments/assets/4c4acd3e-c873-494f-84fd-e045166ac0c5" />
+## Gripper open and close 
+<img width="662" height="430" alt="image" src="https://github.com/user-attachments/assets/8eaf0447-f6b1-4c66-9438-ee254b1ce56a" />
+
+
 ---
 
 ## Overview
