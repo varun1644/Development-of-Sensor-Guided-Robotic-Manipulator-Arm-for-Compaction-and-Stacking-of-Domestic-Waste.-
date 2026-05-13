@@ -9,6 +9,10 @@ A smart waste-handling robotic system designed to detect, pick, compact, and sta
 This project focuses on automating domestic waste handling using a sensor-guided robotic manipulator. The system combines YOLOv5-based object detection, inverse kinematics, actuator control, and compacting mechanisms to improve waste management efficiency.
 
 The robotic arm detects waste through a camera feed, calculates the target position, picks the object using a gripper, and transfers it for compaction and stacking.
+## Project images
+
+
+
 
 ---
 ## Methodology
