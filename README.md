@@ -6,6 +6,25 @@ A smart waste-handling robotic system designed to detect, pick, compact, and sta
 ## Complete System Setup 
 <img width="626" height="470" alt="image" src="https://github.com/user-attachments/assets/e584f7d9-b98e-4217-a248-c6526c0cdb57" />
 
+
+## Overview
+
+This project focuses on automating domestic waste handling using a sensor-guided robotic manipulator. The system combines YOLOv5-based object detection, inverse kinematics, actuator control, and compacting mechanisms to improve waste management efficiency.
+
+The robotic arm detects waste through a camera feed, calculates the target position, picks the object using a gripper, and transfers it for compaction and stacking.
+
+## Features
+
+- YOLOv5-based waste detection
+- Robotic arm inverse kinematics
+- Stepper motor motion control
+- Servo-based gripper system
+- Sensor-guided object handling
+- Waste compaction mechanism
+- Automated stacking workflow
+- Jetson Nano / Arduino compatible
+- Modular hardware and software design
+
 ## Compaction System 
 <img width="741" height="593" alt="image" src="https://github.com/user-attachments/assets/4b23fe1d-f6a9-4f66-bec0-f7d812a28fd2" />
 
@@ -20,12 +39,15 @@ A smart waste-handling robotic system designed to detect, pick, compact, and sta
 
 ---
 
-## Overview
 
-This project focuses on automating domestic waste handling using a sensor-guided robotic manipulator. The system combines YOLOv5-based object detection, inverse kinematics, actuator control, and compacting mechanisms to improve waste management efficiency.
 
-The robotic arm detects waste through a camera feed, calculates the target position, picks the object using a gripper, and transfers it for compaction and stacking.
-## Project images
+
+## System Block Diagram 
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/11aea2ce-5f4d-4081-99ce-2b3026e5e0a0" />
+
+
+
 
 
 
@@ -34,17 +56,9 @@ The robotic arm detects waste through a camera feed, calculates the target posit
 ## Methodology
 <img width="1229" height="745" alt="image" src="https://github.com/user-attachments/assets/5d7c150b-103f-44f5-b4ad-ee14a2fe9b7a" />
 
-## Features
 
-- YOLOv5-based waste detection
-- Robotic arm inverse kinematics
-- Stepper motor motion control
-- Servo-based gripper system
-- Sensor-guided object handling
-- Waste compaction mechanism
-- Automated stacking workflow
-- Jetson Nano / Arduino compatible
-- Modular hardware and software design
+
+
 
 ---
 ## CAD of the arm 
@@ -63,6 +77,11 @@ The robotic arm detects waste through a camera feed, calculates the target posit
 - Sensors (IR / Ultrasonic / Limit Switches)
 
 ---
+
+## Control System 
+
+<img width="850" height="535" alt="image" src="https://github.com/user-attachments/assets/7bfb3ced-50c0-4881-a5fe-3d887e96e8bc" />
+
 
 ## Software Stack
 
